@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#354355</color>
+    <color name="colorPrimaryDark">#26303D</color>
+    <color name="colorAccent">#F3CD70</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+
+
+    <!--tab-->
+    <color name="tab_disable">#979797</color>
+    <color name="tab_enable">#FFFFFF</color>
+    <color name="tab_checked">#F3CD70</color>
+    <color name="tab_unchecked">#FFFFFF</color>
+
+    <color name="Facebook">#337ab7</color>
+    <color name="Instagram">#a94442</color>
+</resources>
